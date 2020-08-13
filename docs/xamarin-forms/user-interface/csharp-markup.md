@@ -1,5 +1,5 @@
 ---
-title: Xamarin.FormsMarcação C#
+title: Xamarin.Forms Marcação C#
 description: A marcação C# é um conjunto opcional de métodos e classes auxiliares fluentes para simplificar o processo de criação de interfaces de usuário declarativas Xamarin.Forms em C#.
 ms.prod: xamarin
 ms.assetid: D41B9DCD-5C34-4C2F-B177-FC082AB2E9E0
@@ -17,7 +17,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 08/07/2020
 ms.locfileid: "87918566"
 ---
-# <a name="no-locxamarinforms-c-markup"></a>Xamarin.FormsMarcação C#
+# <a name="no-locxamarinforms-c-markup"></a>Xamarin.Forms Marcação C#
 
 ![API de pré-lançamento](~/media/shared/preview.png)
 
